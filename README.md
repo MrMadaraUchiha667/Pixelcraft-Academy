@@ -59,7 +59,7 @@ Os cursos foram desenvolvidos para ensinar desde os conceitos básicos até téc
 
 ## ⚔️ MU Online
 
-* Breve
+* Tratamento de Dados Mu Online
 
 ---
 
@@ -77,7 +77,8 @@ Os cursos foram desenvolvidos para ensinar desde os conceitos básicos até téc
 
 ## 🧙 Outros Jogos
 
-Novos cursos serão adicionados continuamente.
+* Fundamentos de M.U.G.E.N.
+* Fundamentos de RPG Maker MV.
 
 ---
 
@@ -93,6 +94,8 @@ Cada curso possui uma metodologia padronizada.
 ├── 🎥 Video aulas
 │
 ├── 📖 Apostilas
+│
+├── 📝 Quiz
 │
 ├── 🧪 Exercícios
 │
